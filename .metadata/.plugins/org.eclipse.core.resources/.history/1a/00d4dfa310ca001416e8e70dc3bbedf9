@@ -1,0 +1,11 @@
+package patterh.proxy.dynamic;
+
+public class AfterAdvice implements IAdvice {
+
+	@Override
+	public void exec() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

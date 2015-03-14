@@ -1,0 +1,5 @@
+package patterh.proxy.dynamic;
+
+public class DynamicProxy<T> {
+
+}

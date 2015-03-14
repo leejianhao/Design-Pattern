@@ -1,0 +1,5 @@
+package patterh.proxy.dynamic;
+
+public interface IAdvice {
+
+}

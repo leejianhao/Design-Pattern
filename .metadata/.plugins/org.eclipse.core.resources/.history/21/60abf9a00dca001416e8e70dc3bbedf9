@@ -1,0 +1,8 @@
+package pattern.proxy;
+
+public abstract Subject {
+
+		public void doSomething() {
+			
+		}
+}

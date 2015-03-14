@@ -1,0 +1,11 @@
+INDEX VERSION 1.127+D:\Learn\Design-Pattern\.metadata\.plugins\org.eclipse.jdt.core
+4080710723.index
+2446842869.index
+1277525074.index
+2391919994.index
+3219683278.index
+847635530.index
+729804539.index
+3822534228.index
+208081046.index
+3793466121.index

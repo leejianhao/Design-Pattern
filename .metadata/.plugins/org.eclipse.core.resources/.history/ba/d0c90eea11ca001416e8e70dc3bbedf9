@@ -1,0 +1,10 @@
+package patterh.proxy.dynamic;
+
+public class AfterAdvice implements IAdvice {
+
+	@Override
+	public void exec() {
+		System.out.println("我是后置，我被执行了");
+	}
+
+}

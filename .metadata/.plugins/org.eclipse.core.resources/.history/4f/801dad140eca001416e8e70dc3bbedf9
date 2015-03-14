@@ -1,0 +1,11 @@
+package pattern.proxy;
+
+public class Proxy extends Subject{
+	
+	private Subject realSubject = 
+	@Override
+	public void doSomething() {
+			
+	}
+		
+}
